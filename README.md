@@ -10,6 +10,7 @@
 
 - CRA방식을 이용한 최초 React 웹 개발 경험
 - React 활용 역량 향상
+- 처음으로 Tailwind CSS 라이브러리 활용
 
 <br/>
 🔨 Tech
