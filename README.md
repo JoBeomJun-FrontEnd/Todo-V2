@@ -9,12 +9,13 @@
 📌 Point
 
 - CRA방식을 이용한 최초 React 웹 개발 경험
-- React, Tailwind CSS 활용 역량 향상
+- CSS-Module 방식을 이용한 웹 사이트 스타일링
+- Context를 활용한 전역 상태 관리
 
 <br/>
 🔨 Tech
 
-- HTML
-- CSS
-- JavaScript
 - React
+- JavaScript
+- CSS-Module
+- Context
